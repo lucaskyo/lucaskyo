@@ -2,11 +2,10 @@
 
 ## 🤠 About Me
 * 🎓 - Pursuing a degree in Systems Analysis and Development.
-* 🌱 - Deepening my knowledge in **C++**, **Python**, **Git**, and **GitHub**.
+* 🌱 - Deepening my knowledge in `C++`, `Python`, `Git`, and `GitHub`.
 * 🎸 - Bassist and musician in my spare time.
 
-## 🛠️ Skills and Contact
+## 🛠️ Skills
 * **Data:** Power BI, Microsoft Excel.
 * **3D Modeling:** SolidWorks, AutoCAD, Fusion 360.
-* **Languages:** EN, PT-BR.
-* **Contact Email:** lucas.almeidadev@outlook.com
+* **Languages:** `EN`, `PT-BR`.
