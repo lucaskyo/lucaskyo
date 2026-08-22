@@ -1,16 +1,12 @@
-## Hi there 👋
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/3a5379f5-7ae1-443d-b275-c298ca2322d3" />
 
-<!--
-**lucaskyo/lucaskyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤠 About Me
+* 🎓 - Pursuing a degree in Systems Analysis and Development.
+* 🌱 - Deepening my knowledge in **C++**, **Python**, **Git**, and **GitHub**.
+* 🎸 - Bassist and musician in my spare time.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills and Contact
+* **Data:** Power BI, Microsoft Excel.
+* **3D Modeling:** SolidWorks, AutoCAD, Fusion 360.
+* **Languages:** EN, PT-BR.
+* **Contact Email:** lucas.almeidadev@outlook.com
