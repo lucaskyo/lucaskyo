@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-  <img src="https://img.shields.io/badge/cinema%204d-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" />
 </p>
 
 ## 🤠 About Me
