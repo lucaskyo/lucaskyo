@@ -3,7 +3,6 @@
 ```bash
 $ whoami
 Aspiring Data Engineer | Python & SQL | Linux & Docker Enthusiast
->
 ```
 
 ```python
