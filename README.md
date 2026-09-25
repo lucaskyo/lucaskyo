@@ -2,11 +2,12 @@
 
 ```bash
 $ whoami
-> Aspiring Data Engineer | Python & SQL | Linux & Docker Enthusiast
+Aspiring Data Engineer | Python & SQL | Linux & Docker Enthusiast
+>
 ```
 
 ```python
-#!/usr/bin/python
+#!/usr/bin/env python3
 
 
 class DataEngineer:
